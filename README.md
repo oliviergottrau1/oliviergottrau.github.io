@@ -1,1 +1,3 @@
-This website will be aviable soon
++---------------------------------+
+|This website will soon be aviable|
++---------------------------------+
