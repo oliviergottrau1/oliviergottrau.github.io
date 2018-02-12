@@ -1,2 +1,1 @@
-
-=== This website will soon be aviable ===
+This website will be aviable soon
